@@ -1,4 +1,1 @@
 "test git lifecycle" 
-first line
-second line
-third line
