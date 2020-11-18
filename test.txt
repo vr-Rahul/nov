@@ -1,4 +1,5 @@
 test git lifecycle
 First line
 second line
-third line
+third lines
+fourth line
